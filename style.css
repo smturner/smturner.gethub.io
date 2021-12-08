@@ -1,1 +1,32 @@
+body{
+  background-image: url("https://i.pinimg.com/736x/89/d3/ae/89d3aed568532c14e372494ef87def91.jpg");
+  margin-left: 10px;
+  font-family: Arial, Helvetica, Sans-serif;
+}
 
+h1{
+  text-align: center;
+  font-family: Arial, Helvetica, Sans-serif;
+  border: 2px solid grey;
+  color:green
+}
+
+h5{
+  Text-align: center;
+  font-style: italic;
+  font-family: Arial, Helvetica, Sans-serif;
+   
+    
+}
+
+.title{
+  text-align: center;
+  background: lightgrey;
+  font-size: 18px
+  font-family: Arial, Helvetica, Sans-serif;
+  color:green
+}
+
+ul{
+  font-size: 14px
+}
