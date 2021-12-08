@@ -8,23 +8,22 @@ h1{
   text-align: center;
   font-family: Arial, Helvetica, Sans-serif;
   border: 2px solid grey;
-  color:green
+  color:#A0555D
 }
 
 h5{
   Text-align: center;
   font-style: italic;
-  font-family: Arial, Helvetica, Sans-serif;
-   
-    
+  font-family: Arial, Helvetica, Sans-serif;    
 }
 
 .title{
   text-align: center;
-  background: lightgrey;
-  font-size: 18px
+  background: #7785;
+  border-bottom: 2px solid;
+  font-size: 18px;
   font-family: Arial, Helvetica, Sans-serif;
-  color:green
+  color:#A0555D;
 }
 
 ul{
