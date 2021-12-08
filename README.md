@@ -1,1 +1,1 @@
-# smturner.gethub.io
+# smturner.github.io
